@@ -1,2 +1,4 @@
 # Classification-Persian-Text
 A system for Persian Texts Classification Using Gaussian and Bayesian algorithms
+The purpose of categorizing documents is to map text documents into several predefined categories. Due to the growing number of texts, much attention has been paid to the classification of documents. But aggregating experts is a challenge and a waste of time. Therefore, in recent years, various algorithms for automatic classification of documents have been proposed, but most of them have been presented in the field of Latin texts, and recently, Chinese, Arabic and Persian texts have been studied. The purpose of this article is to review the classification of Persian data that we have used a combination of Bayesian and Gaussian algorithms to take advantage of these two algorithms.
+This system is published at 5th Iranian conference on Signal Processing and Intelligent Systems(ICSPIS),2019, https://civilica.com/doc/983113.
